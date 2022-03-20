@@ -2,7 +2,7 @@
 
 [![](https://img.youtube.com/vi/BRow4hzXKk0/0.jpg)](https://www.youtube.com/watch?v=BRow4hzXKk0)
 
-![](https://github.com/7m4mon/ekimeihyo/blob/main/metro_hassyahyo_pptm.png)  
+![](https://github.com/7m4mon/hasshahyo_pptm/blob/main/metro_hassyahyo_pptm.png)  
 
 * 作者：7M4MON
 * 作成環境：Microsoft PowerPoint 2010
@@ -36,5 +36,5 @@ http://nomulabo.com/hasshahyo_pptm/
 ## おまけ
 JR東日本の山手線と総武線各駅停車の発車標も作ってみました。
 力尽きたので、レイアウトのみです。
-![](https://github.com/7m4mon/ekimeihyo/blob/main/jre_hasshahyo_yamanote.png)  
-![](https://github.com/7m4mon/ekimeihyo/blob/main/jre_hasshahyo_sobu_local.png)  
+![](https://github.com/7m4mon/hasshahyo_pptm/blob/main/jre_hasshahyo_yamanote.png)  
+![](https://github.com/7m4mon/hasshahyo_pptm/blob/main/jre_hasshahyo_sobu_local.png)  
